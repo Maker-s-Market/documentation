@@ -64,22 +64,26 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Maker\'s Market Documentation',
+        title: 'Maker\'s Market',
         logo: {
           alt: 'Maker\'s Market Logo',
-          src: 'img/logo.svg',
+          src: 'img/github-mark-white.png',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentation',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/Maker-s-Market/',
+            to: 'https://github.com/Maker-s-Market/',
             label: 'GitHub',
+            position: 'right',
+          },
+          {
+            to: 'https://es-proj.atlassian.net/jira/software/projects/KAN/boards/1',
+            label: 'Jira',
             position: 'right',
           },
         ],
@@ -91,34 +95,17 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Documentation',
+                to: '/docs/introduction',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Channels',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Jira',
+                href: 'https://es-proj.atlassian.net/jira/software/projects/KAN/boards/1',
               },
               {
                 label: 'GitHub',
