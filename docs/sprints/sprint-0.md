@@ -38,8 +38,6 @@ Setup the necessary environments to begin development of the project and write t
 - MM-2 Plan Team roles
 - MM-3 Create initial User Stories
 - MM-5 Create Functional Requirements
-- MM-10 Create rough sketch of database
-- MM-11 Create rough sketch of the architecture-
 - MM-18 Create Software mockup
 - MM-32 Create Docusaurus
 

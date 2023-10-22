@@ -4,4 +4,8 @@ sidebar_position: 3
 
 # Database model
 
--- TBD
+## Diagram
+![Database Diagram](./../../static/img/makers_db.png)
+
+## Description
+

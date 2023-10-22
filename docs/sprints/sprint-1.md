@@ -38,12 +38,19 @@ On the side, we also created the brand logo for our project and started explorin
 - MM-41 Delete Product
 
 ### Completed PBI
-
--- TBD --
+- MM-10 Create rough sketch of database
+- MM-11 Create rough sketch of the architecture
+- MM-19 Search a Product
+- MM-7 View Catalog
+- MM-22 Filter Products
+- MM-54 View Product
+- MM-56 Create brand logo
+- MM-36 Announce a Product
+- MM-43 Change a Product Attributes
+- MM-41 Delete Product
 
 ### Incomplete PBI
-
--- TBD --
+- None
 
 ## Demonstrations
 

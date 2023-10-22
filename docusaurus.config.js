@@ -67,7 +67,7 @@ const config = {
         title: 'Maker\'s Market',
         logo: {
           alt: 'Maker\'s Market Logo',
-          src: 'img/github-mark-white.png',
+          src: 'img/ES-Logo.png',
         },
         items: [
           {

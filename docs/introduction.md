@@ -17,4 +17,4 @@ Sellers can advertise their product and reach consumers on the whole platform, t
 
 You can check our github at **[github.com/Maker-s-Market](https://github.com/Maker-s-Market/)**.
 
-Our project is being developed using the **[Jira Framework](https://es-proj.atlassian.net/jira/software/projects/MM/boards/1)**, using the agile methodology and scrum, where valuable increments are done each sprint always produce working software.
+Our project is being developed using the **[Jira Framework](https://es-proj.atlassian.net/jira/software/projects/MM/boards/1)**, using the agile methodology and scrum, where valuable increments are done each sprint and always produce working software.
