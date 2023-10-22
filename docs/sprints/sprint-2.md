@@ -13,7 +13,7 @@ Team Members
 - Filipe Silveira
 - Bruna Simões
 - Mateus Almeida
+    - Scrum Master
 - Vicente Barros
-  - Product Owner
 - Mariana Andrade
-  - Scrum Master
+    - Product Owner
