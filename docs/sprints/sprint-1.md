@@ -54,12 +54,26 @@ On the side, we also created the brand logo for our project and started explorin
 
 ## Demonstrations
 
--- TBD --
+Our Sprint Progress was made almost linearly, with the remaining work decreasing linearly.
+
+All tasks are also confirmed to be totally made.
+
+Following, the images made by Jira Software after the conclusion of a sprint.
+
+![Sprint Progress](./../../static/img/sprint1_prog.png)
+
+![Sprint Burndown](./../../static/img/sprint1_burndown.png)
 
 ## Next Sprint
 
--- TBD --
+Since we faced issues in implementing authentication using the AWS Cognito, we cannot, as of now, infer about the next sprint, since it would highly revolve around user authentication and role management.
 
 ## Conclusions
 
--- TBD --
+We successfully managed to create the database schema, as well as introducing mock data to populate it and observe changes.
+
+We also created different endpoints for product and category management, to comply with defined user stories.
+
+Our frontend also encompasses different pages which display in a user friendly way methods to change and operate through products and categories alike.
+
+In our next sprint, we should infer how we will implement authentication forms and how the chat should be implemented.
