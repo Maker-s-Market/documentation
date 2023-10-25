@@ -10,10 +10,10 @@ sidebar_position: 3
 ## Attendees
 Team Members
 
-- Filipe Silveira
 - Bruna Simões
+- Filipe Silveira
+- Mariana Andrade
+    - Product Owner
 - Mateus Almeida
     - Scrum Master
 - Vicente Barros
-- Mariana Andrade
-    - Product Owner

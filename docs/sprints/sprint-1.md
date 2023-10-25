@@ -10,13 +10,14 @@ sidebar_position: 2
 ## Attendees
 Team Members
 
-- Filipe Silveira
 - Bruna Simões
+- Filipe Silveira
+- Mariana Andrade
+  - Scrum Master
 - Mateus Almeida
 - Vicente Barros
   - Product Owner
-- Mariana Andrade
-  - Scrum Master
+
 
 ## Sprint Goal
 For our first sprint, we started the development of the project by creating a rough sketch of the database and the architecture, as well as starting the development of the frontend and backend of the project, by completing our epic ["MM-58: Product Management"](https://es-proj.atlassian.net/browse/MM-58?atlOrigin=eyJpIjoiMjliMDhjOTBlNzEyNDg0Zjg5Nzk0M2Q1ZTdlY2Q3YzAiLCJwIjoiaiJ9).
