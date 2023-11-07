@@ -17,3 +17,9 @@ Team Members
 - Mateus Almeida
     - Product Owner
 - Vicente Barros
+
+## Sprint Goal
+
+## Product Backlog 
+
+In one of the weekly meetings, the development team decided on reassessing the planned product backlog items after re-evaluating what would bring the biggest value to the current sprint's increment. Therefore, the User Stories in the Admin Dashboard epic were removed in favor of finishing the User Stories in the Product Managemenet epic.
