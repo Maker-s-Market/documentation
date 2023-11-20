@@ -46,7 +46,6 @@ For our second sprint, our goal was to fully develop authentication using AWS Co
 - MM-33 Check Reviews
 - MM-29 Delete Review of Product
 - MM-31 Create Review of Product
-- MM-6 Authenticate with Third Party Services
 
 
 ### Incomplete PBI
