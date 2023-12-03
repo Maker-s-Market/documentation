@@ -1,0 +1,27 @@
+{
+  "unversionedId": "definitions",
+  "id": "definitions",
+  "title": "Definitions",
+  "description": "Definition of Ready",
+  "source": "@site/docs/definitions.md",
+  "sourceDirName": ".",
+  "slug": "/definitions",
+  "permalink": "/documentation/docs/definitions",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/definitions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Database model",
+    "permalink": "/documentation/docs/arch_tech/database"
+  },
+  "next": {
+    "title": "Functional and Non-Functional Requirements",
+    "permalink": "/documentation/docs/requirements"
+  }
+}

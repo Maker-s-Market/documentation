@@ -94,12 +94,7 @@ The following graphs have been derived from Jira upon the conclusion of the spri
 
 ![Sprint Burndown](./../../static/img/sprint3_burndown.png)
 
-## Next Sprint
-
-For the next sprint, our goal is to finish development on the marketplace front, which entails every remaining User
-Story under the "User Statistics" and "Marketplace" epics.
-
-## Conclusions
+## Sprint Review
 
 We successfully managed to complete the User Stories planned for this sprint, fully integrating the shopping cart,
 wishlist and follower features into our product.
@@ -110,3 +105,8 @@ application to AWS, using the Elastic Container Service, which should be address
 For the next sprint, we will focus on completing any pending tasks and refactoring api endpoints for easier
 understanding of the team, all the while focusing on finishing the marketplace product for the end-user. This way, we'll
 focus on integrating exterior services for the final sprint and have a fully functional, fully deployed application.
+
+## Next Sprint Planning
+
+For the next sprint, our goal is to finish development on the marketplace front, which entails every remaining User
+Story under the "User Statistics" and "Marketplace" epics.

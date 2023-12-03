@@ -61,14 +61,14 @@ Below are the graphs extracted from Jira after concluding the sprint.
 
 ![Sprint Burndown](./../../static/img/sprint2_burndown.png)
 
-## Next Sprint
-
-For the next sprint, our goal is to begin development on the admin dashboard, as well as implement user features such as the wishlist page and the following feature.
-
-## Conclusions
+## Sprint Review
 
 We successfully managed to complete the authentication feature, integrated with AWS Cognito and fully tested. However, we struggled to connect to third-party authentication tools, therefore that should be completed in the next sprint.
 
 We also added the ability to add reviews to products, which was fully implemented on the frontend of the application.
 
 For the next sprint, we will focus on completing any pending tasks and implementing user-end features such as the wishlist, as well as develop the admin dashboard for the admin role.
+
+## Next Sprint Planning
+
+For the next sprint, our goal is to begin development on the admin dashboard, as well as implement user features such as the wishlist page and the following feature.

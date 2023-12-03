@@ -1,0 +1,78 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/documentation/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/documentation/docs",
+          "mainDocId": "introduction",
+          "docs": [
+            {
+              "id": "arch_tech/architecture",
+              "path": "/documentation/docs/arch_tech/architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "arch_tech/database",
+              "path": "/documentation/docs/arch_tech/database",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "definitions",
+              "path": "/documentation/docs/definitions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction",
+              "path": "/documentation/docs/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "requirements",
+              "path": "/documentation/docs/requirements",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sprints/sprint-0",
+              "path": "/documentation/docs/sprints/sprint-0",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sprints/sprint-1",
+              "path": "/documentation/docs/sprints/sprint-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sprints/sprint-2",
+              "path": "/documentation/docs/sprints/sprint-2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/architecture",
+              "path": "/documentation/docs/category/architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/sprint",
+              "path": "/documentation/docs/category/sprint",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/documentation/docs/introduction",
+                "label": "introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
