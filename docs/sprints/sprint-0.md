@@ -65,7 +65,10 @@ As development of the product has not yet begun, the demonstration only encompas
 - Must comply with the acceptance criteria
 - Must be documented in Docussaurus
 
-## Next Steps
+## Sprint Review
+With this being the very first sprint in mind, it can be concluded that it was completed successfully, with all members dutifully completing their assigned tasks and goals. The next steps will be taken as to ensure the swift beginning of development of the product, such as beginning development of the front-end, back-end and API of said product. 
+
+## Next Sprint Planning
 Items for Sprint 1:
 - MM-7 View Catalog
 - MM-19 Search a Product
@@ -79,7 +82,3 @@ Items for Sprint 1:
 - MM-11 Create rough sketch of architecture
 Changes to Product Backlog: 
 - Backlog was refined and prioritized according to new insights and the outlook of the next sprint
-
-## Conclusion
-With this being the very first sprint in mind, it can be concluded that it was completed successfully, with all members dutifully completing their assigned tasks and goals. The next steps will be taken as to ensure the swift beginning of development of the product, such as beginning development of the front-end, back-end and API of said product. 
-
