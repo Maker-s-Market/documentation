@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Maker\'s Market Documentation',
   tagline: 'Documentation for Maker\'s Market',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/ES-Logo.png',
 
   // Set the production url of your site here
   url: 'https://maker-s-market.github.io',
@@ -37,23 +37,16 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
+        theme: {
+          customCss: require.resolve('./src/css/custom.css'),
+        },
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          routeBasePath: '/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
-        theme: {
-          customCss: require.resolve('./src/css/custom.css'),
-        },
+        blog: false,
       }),
     ],
   ],
@@ -77,10 +70,16 @@ const config = {
             label: 'Documentation',
           },
           {
+            label: 'Maker\'s Market',
+            to: 'https://makers-market.pt',
+            position: 'right'
+          },
+          {
             to: 'https://github.com/Maker-s-Market/',
             label: 'GitHub',
             position: 'right',
           },
+
           {
             to: 'https://es-proj.atlassian.net/jira/software/projects/KAN/boards/1',
             label: 'Jira',
@@ -103,6 +102,10 @@ const config = {
           {
             title: 'Channels',
             items: [
+              {
+                label: 'Maker\'s Market',
+                href: 'https://makers-market.pt',
+              },
               {
                 label: 'Jira',
                 href: 'https://es-proj.atlassian.net/jira/software/projects/KAN/boards/1',
