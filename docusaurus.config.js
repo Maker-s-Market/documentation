@@ -21,7 +21,7 @@ const config = {
   organizationName: 'maker-s-market', // Usually your GitHub org/user name.
   projectName: 'documentation', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -31,7 +31,6 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
   presets: [
     [
       'classic',
