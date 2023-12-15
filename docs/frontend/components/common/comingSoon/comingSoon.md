@@ -1,7 +1,7 @@
-<a name="CommingSoon"></a>
+<a name="ComingSoon"></a>
 
-## CommingSoon ⇒ <code>JSX.Element</code>
-`CommingSoon` is a functional component that renders a "Coming Soon" badge.
+## ComingSoon ⇒ <code>JSX.Element</code>
+`ComingSoon` is a functional component that renders a "Coming Soon" badge.
 
 **Kind**: global constant  
 **Returns**: <code>JSX.Element</code> - A div element with the text "Coming Soon".  
