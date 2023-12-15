@@ -1,0 +1,9 @@
+{
+  "label": "Layouts",
+  "position": 4
+,
+  "link": {
+    "type": "generated-index",
+    "description": "Documentation of our solution's general layouts"
+  }
+}
