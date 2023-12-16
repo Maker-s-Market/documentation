@@ -2,11 +2,11 @@
 sidebar_position: 3
 ---
 
-# Database model - V2
+# Database model - V3
 
 ## Description
 
-To attend to all users’ stories, our database schema was refactored to attend to these needs, adding some parameters and refactoring others.
+To attend to all newly implemented users’ stories, our database schema was refactored to attend to these needs, adding new tables and parameters to accomodate for the implementation of order history.
 Below, a further description of these entities is performed.
 
 ### User
@@ -103,6 +103,9 @@ The ***created_at*** and ***updated_at*** variables store the timestamp at which
 ### Order Item
 The order item is an instance of the order, mapped by ***order_id***. It represents one distinct product (***product_id***) in the order and stores the amount of product to be bough in the ***quantity*** column.
 
+### Order History
+The order history table stores information about the **status** which can be "accepted", "in_expedition" or "delivered". Additionally, information about the **date** it was created is also available.
+
 
 ## Diagram
-![Database Diagram](./../../static/img/makers_db_v2.png)
+![Database Diagram](./../../static/img/makers_db_v3.png)

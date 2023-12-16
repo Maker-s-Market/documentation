@@ -1,6 +1,6 @@
 {
-  "label": "Sprint",
-  "position": 5,
+  "label": "Sprints",
+  "position": 8,
   "link": {
     "type": "generated-index",
     "description": "Information about sprints"
