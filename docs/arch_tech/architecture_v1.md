@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Architecture
+# Architecture - V1
 
 ## Description
 
